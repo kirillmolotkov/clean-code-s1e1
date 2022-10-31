@@ -126,7 +126,7 @@ input,
 }
 
 /* Completed */
-.complete-task__item .task-item__label {
+.complete {
   text-decoration: line-through;
   color: #888;
 }
